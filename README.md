@@ -1,1 +1,1 @@
-# VowelCounter
+# This is a modified code that was originally programmed to count the vowels of any text added to the command line. The original code only counted the letters A, E, I, O, U, but in this modified version of the code, I also made it count 3 additional letters that are S, C, and L that are detected through out the text in the command line.
